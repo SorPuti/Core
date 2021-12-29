@@ -1,0 +1,10 @@
+name: Core
+version: '${project.version}'
+main: br.com.puti.core.Core
+prefix: Core
+load: STARTUP
+softdepend: [ DiscordBotAPI ]
+authors: [ SrPuti_ ]
+description: Nucleo API
+commands:
+  core:

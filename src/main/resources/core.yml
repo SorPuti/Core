@@ -1,0 +1,5 @@
+DataBase:
+  username: 'root'
+  password: ''
+  database: 'test'
+  host: 'localhost'
