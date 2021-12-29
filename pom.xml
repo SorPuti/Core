@@ -16,6 +16,16 @@
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+         
+         <settings>
+  <servers>
+        <server>
+          <id>jitpack.io</id>
+          <username>jp_66d0c2fca88p2dklep7r4aahqc</username>
+          <password>.</password>
+        </server>
+  </servers>
+</settings>
 
     <build>
         <plugins>
